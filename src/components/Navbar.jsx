@@ -45,9 +45,9 @@ const Navbar = () => {
         <img src={Logo} alt=""/>
       </div>
       <div className="navbar-links-container">
-        <a href="/react-landingpage">Home</a>
-        <a href="/about">About</a>
-        <a href="/contact">Contact</a>
+        <a href="/navbar-links-container/react-landingpage">Home</a>
+        <a href="/navbar-links-container/about">About</a>
+        <a href="/navbar-links-container/contact">Contact</a>
         <a href="">
           <BsCart2 className="navbar-cart-icon" />
         </a>
