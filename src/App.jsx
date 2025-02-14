@@ -14,8 +14,8 @@ function App() {
         {
           <Routes>
             <Route path="/react-landingpage" element={<Home />} />
-            <Route path="/react-landingpage/about" element={<About />} />
-            <Route path="/react-landingpage/contact" element={<Contact />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
           </Routes>
         }
       </div>
