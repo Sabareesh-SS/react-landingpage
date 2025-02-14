@@ -46,8 +46,8 @@ const Navbar = () => {
       </div>
       <div className="navbar-links-container">
         <a href="/react-landingpage">Home</a>
-        <a href="/react-landingpage/about">About</a>
-        <a href="/react-landingpage/contact">Contact</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
         <a href="">
           <BsCart2 className="navbar-cart-icon" />
         </a>
