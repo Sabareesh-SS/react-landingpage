@@ -45,7 +45,7 @@ const Navbar = () => {
         <img src={Logo} alt=""/>
       </div>
       <div className="navbar-links-container">
-        <a href="/">Home</a>
+        <a href="/react-landingpage">Home</a>
         <a href="/about">About</a>
         <a href="/contact">Contact</a>
         <a href="">
